@@ -1,2 +1,2 @@
 # ArduinoToPowerBi
-Stream Real Time Data From Arduinoboars with WIFI
+Stream Real Time Data From Arduinoboards with WIFI
